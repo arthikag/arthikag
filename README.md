@@ -4,7 +4,7 @@
 </h3>
 <p align="left"> <a href="https://twitter.com/ArthikaGanesan" target="blank"><img src="https://img.shields.io/twitter/follow/ArthikaGanesan?logo=twitter&style=for-the-badge" /></a> </p>
 
-- 🔭 I’m currently pursuing my CSE - BE degree
+- 🔭 I’m currently pursuing my CSE - BE degree *@ Sri Krishna College of Engineering and Technology*
 
 - 🌱 I’m currently learning *everything*
 
