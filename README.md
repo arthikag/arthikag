@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arthika</h1>
 <h3 align="center">A passionate coder from India
-<img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="42" height="40"/>
+<img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50" height="40"/>
 </h3>
 <p align="left"> <a href="https://twitter.com/ArthikaGanesan" target="blank"><img src="https://img.shields.io/twitter/follow/ArthikaGanesan?logo=twitter&style=for-the-badge" /></a> </p>
 
