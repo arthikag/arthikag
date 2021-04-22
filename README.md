@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [Here @ GitHub](github.com/arthikag)
 
-- 📝 I regularly write articles on [Blogger.com](arthikag.blogspot.com)
+- 📝 I regularly write articles on [Blogger.com](https://arthikag.blogspot.com/)
 
 - 💬 Ask me about *Python*
 
