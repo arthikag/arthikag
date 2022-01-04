@@ -16,7 +16,7 @@
 
 - 📫 How to reach me *arthika7777@gmail.com*
 
-- 📄 Know <a href="https://drive.google.com/file/d/1zR0wl9JlgKPdSt5YuyGATGLXd1cEIgTp/view?usp=sharing" target="_blank">about me</a>
+- 📄 Know <a href="https://drive.google.com/file/d/1rDP_E2_JmpRQYA4WtyfAkQl-bJe6QJo-/view?usp=sharing" target="_blank">about me</a>
 
 - ⚡ Fun fact *oops*
 
